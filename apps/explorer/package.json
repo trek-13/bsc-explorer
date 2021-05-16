@@ -1,0 +1,19 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poanetwork/blockscout.git"
+  },
+  "private": true,
+  "name": "blockscout",
+  "author": "POA Network",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": "12.x",
+    "npm": "6.x"
+  },
+  "scripts": {},
+  "dependencies": {
+    "keccak": "^2.0.0",
+    "solc": "^0.6.1"
+  }
+}
